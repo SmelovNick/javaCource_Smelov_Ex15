@@ -4,7 +4,6 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
-        File textFile = new File("test.txt");
         String text;
         List<String> bigWords = new ArrayList<>();
 
